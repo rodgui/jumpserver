@@ -120,7 +120,7 @@ dependencies = [
     'pyhcl==0.4.4',
     'ipy==1.1',
     'netifaces>=00.11.0',
-    'daphne==4.0.0',
+    'daphne==4.2.2',
     'channels>=04.0.0',
     'channels-redis==4.1.0',
     'fido2>=01.1.2',
